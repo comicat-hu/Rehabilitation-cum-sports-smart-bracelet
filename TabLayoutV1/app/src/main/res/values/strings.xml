@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">復健暨運動手環</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="totalTime">動作時間：</string>
+    <string name="Times">動作次數：&#160;&#160;</string>
+    <string name="Target">目標提醒：&#160;</string>
+</resources>
